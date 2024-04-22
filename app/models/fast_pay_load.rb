@@ -1,0 +1,2 @@
+class FastPayLoad < ApplicationRecord
+end

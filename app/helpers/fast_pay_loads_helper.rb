@@ -1,0 +1,2 @@
+module FastPayLoadsHelper
+end
