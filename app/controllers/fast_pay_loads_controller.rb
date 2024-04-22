@@ -5,5 +5,6 @@ class FastPayLoadsController < ApplicationController
 
   def index
     @pays = FastPayLoad.all
+    render json: @pays.to_json
   end
 end
